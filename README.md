@@ -1,7 +1,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=0D9488&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there%2C+I'm+techiesrishti+%F0%9F%91%8B;3rd+Year+CS+Student+%F0%9F%8E%93;Java+%26+Spring+Boot+Developer+%E2%98%95;Building+cool+things+one+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=0D9488&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there%2C+I'm+techiesrishti+%F0%9F%91%8B;3rd+Year+CS+Student+%F0%9F%8E%93;Java+%26+Spring+Boot+Developer+%E2%98%95)](https://git.io/typing-svg)
 
 <br/>
 
