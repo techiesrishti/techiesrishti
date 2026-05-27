@@ -106,7 +106,7 @@ public class techiesrishti {
 
 A full-stack tool that detects unused JS/CSS on any website using byte-accurate coverage data, suggests lighter library alternatives, and estimates CO₂ savings.
 
-**Tech:** `Java` `Spring Boot` `React` `Node.js` `Puppeteer` `Babel AST`
+**Tech:** `React.js` `Tailwind CSS` `Node.js` `Express.js` `Puppeteer` `Chrome Coverage API` `Babel AST` `JavaScript`
 &nbsp; [![Repo](https://img.shields.io/badge/View_Repo-0d9488?style=flat-square&logo=github)](https://github.com/techiesrishti/WebSlim)
 
 ---
