@@ -87,11 +87,11 @@ public class techiesrishti {
 
 <!-- Replace YOUR_USERNAME and update project names/descriptions/tech -->
 
-<a href="https://github.com/techiesrishti/YOUR_PROJECT_1">
+<a href="https://github.com/techiesrishti/WebSlim">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=techiesrishti&repo=WebSlim&theme=tokyonight&border_color=0d9488&title_color=0d9488&icon_color=14b8a6" />
 </a>
 &nbsp;
-<a href="https://github.com/techiesrishti/YOUR_PROJECT_2">
+<a href="https://github.com/techiesrishti/SecureStack">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=techiesrishti&repo=SecureStack&theme=tokyonight&border_color=0d9488&title_color=0d9488&icon_color=14b8a6" />
 </a>
 
