@@ -25,8 +25,7 @@ public class techiesrishti {
     };
 
     String[] askMeAbout = {
-        "Java", "Spring Boot", "REST APIs",
-        "Data Structures", "Backend Development"
+        "Java", "Spring Boot", "REST APIs", "Backend Development"
     };
 
     String[] funFacts = {
