@@ -13,7 +13,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```java
 public class techiesrishti {
@@ -37,7 +37,7 @@ public class techiesrishti {
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -80,7 +80,7 @@ public class techiesrishti {
 
 ---
 
-## 🚀 Projects
+## Projects
 
 <div align="center">
 
@@ -100,7 +100,7 @@ public class techiesrishti {
 
 <!-- ── Manual project cards (more visual control) ─────────────────── -->
 
-### 🔬 WebSlim — Web Performance Analyzer
+### WebSlim — Web Performance Analyzer
 > Puppeteer + Chrome Coverage API + React + Node.js
 
 A full-stack tool that detects unused JS/CSS on any website using byte-accurate coverage data, suggests lighter library alternatives, and estimates CO₂ savings.
@@ -110,12 +110,11 @@ A full-stack tool that detects unused JS/CSS on any website using byte-accurate 
 
 ---
 
-### 🔐 SecureStack — AI Privacy Protection Framework
+### SecureStack — AI Privacy Protection Framework
 > Client-side multimodal privacy protection for Generative AI interactions
 
 SecureStack is a browser extension that protects users from accidentally sharing sensitive information with Generative AI platforms like ChatGPT, Gemini, and Copilot. The system performs real-time client-side privacy analysis on text, uploaded documents, and images using regex-based PII detection, OCR, NLP, and lightweight computer vision models before prompts are sent to AI systems.
 
-**Key Features**
 - Real-time PII detection for text inputs
 - Image privacy analysis using OCR + face detection
 - Risk scoring system (Low / Medium / High)
@@ -129,12 +128,11 @@ SecureStack is a browser extension that protects users from accidentally sharing
 
 ---
 
-### 🌦️ Integrated IoT Weather Monitoring & ML Prediction System
+### Integrated IoT Weather Monitoring & ML Prediction System
 > Real-time weather monitoring and AI-powered weather forecasting using IoT + Machine Learning
 
 An integrated IoT and Machine Learning system that collects real-time environmental data using sensors like BME680, rainfall sensor, and wind sensors connected to NodeMCU-ESP32. The system streams live data to ThingsBoard using MQTT and predicts temperature, humidity, and rainfall for the next 5 hours using Random Forest ML models trained on historical and real-time weather data.
 
-**Key Features**
 - Real-time weather monitoring using IoT sensors
 - MQTT-based cloud communication
 - Live dashboard visualization with ThingsBoard
@@ -148,7 +146,7 @@ An integrated IoT and Machine Learning system that collects real-time environmen
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -164,7 +162,7 @@ An integrated IoT and Machine Learning system that collects real-time environmen
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -181,14 +179,14 @@ An integrated IoT and Machine Learning system that collects real-time environmen
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```
-📚  Deepening knowledge of System Design & Microservices
-🔨  Working on some projects
-🌱  Learning Docker, Kubernetes & CI/CD pipelines  
-💡  Exploring Spring Security & OAuth 2.0
-🎓  Third year CS student
+Deepening knowledge of System Design & Microservices
+Working on some projects
+Learning Docker, Kubernetes & CI/CD pipelines  
+Exploring Spring Security & OAuth 2.0
+Third year CS student
 ```
 
 ---
