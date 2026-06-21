@@ -3,12 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=0D9488&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there%2C+I'm+Srishti;3rd+Year+CS+Student;Java+%26+Backend+Enthusiast)](https://git.io/typing-svg)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=techiesrishti&style=for-the-badge&color=0d9488&label=PROFILE+VIEWS)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/techiesrishti?style=for-the-badge&color=0d9488&labelColor=0f172a)](https://github.com/techiesrishti)
-
 </div>
 
 ---
