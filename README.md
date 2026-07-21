@@ -141,10 +141,19 @@ An integrated IoT and Machine Learning system that collects real-time environmen
 ---
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=techiesrishti&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=techiesrishti&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=techiesrishti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## GitHub Stats:
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=techiesrishti&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180"/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=techiesrishti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=techiesrishti&theme=dark&hide_border=false" height="180"/>
+
+</div>
 
 ---
 
