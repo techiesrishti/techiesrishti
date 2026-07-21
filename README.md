@@ -140,19 +140,11 @@ An integrated IoT and Machine Learning system that collects real-time environmen
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=techiesrishti&show_icons=true&theme=tokyonight&border_color=0d9488&title_color=0d9488&icon_color=14b8a6&include_all_commits=true&count_private=true"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techiesrishti&layout=compact&theme=tokyonight&border_color=0d9488&title_color=0d9488"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=techiesrishti&theme=tokyonight&border=0d9488&ring=0d9488&fire=14b8a6&currStreakLabel=0d9488" />
-
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=techiesrishti&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=techiesrishti&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=techiesrishti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
@@ -182,5 +174,6 @@ Learning Docker, Kubernetes & CI/CD pipelines
 Exploring Spring Security & OAuth 2.0
 Third year CS student
 ```
+
 
 ---
