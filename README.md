@@ -167,8 +167,6 @@ An integrated IoT and Machine Learning system that collects real-time environmen
 
 <img src="https://github-profile-trophy.vercel.app/?username=techiesrishti&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
 
-<br><br>
-
 </div>
 
 ---
