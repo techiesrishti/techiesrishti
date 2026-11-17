@@ -157,18 +157,23 @@ An integrated IoT and Machine Learning system that collects real-time environmen
 
 ---
 
-## Contribution Snake
+## Coffee → Code → Commit → Repeat ☕
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/techiesrishti/techiesrishti/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/techiesrishti/techiesrishti/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation"
-    src="https://raw.githubusercontent.com/techiesrishti/techiesrishti/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=techiesrishti&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=14b8a6&line=0d9488&point_color=ffffff&area=true&area_color=0d9488" width="95%" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=techiesrishti&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
+
+<br><br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_color=0d9488" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=techiesrishti&label=Profile+views&color=0d9488&style=for-the-badge" />
 
 </div>
 
