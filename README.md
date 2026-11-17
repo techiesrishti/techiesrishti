@@ -157,7 +157,7 @@ An integrated IoT and Machine Learning system that collects real-time environmen
 
 ---
 
-## Coffee → Code → Commit → Repeat ☕
+## Probably on my third coffee right now ☕
 
 <div align="center">
 
